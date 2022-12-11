@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -  Individual Project Week 4           |  - Individual project week 4 with SQL            | https://github.com/Stella-Achar-Oiro/Individual-Project-Week-4   |
+| 2 |  -  Week 9 Individual Project           |  - To conduct exploratory data analysis on nyc violations dataset            | https://github.com/Stella-Achar-Oiro/Week-9-Individual-project       |
+| 3 |  - Data Preparation            |  - Data preparation using the titanic dataset            | https://github.com/Stella-Achar-Oiro/Data-preparation-       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
